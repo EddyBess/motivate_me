@@ -1,0 +1,1 @@
+const double APP_VERSION = 1.2;
