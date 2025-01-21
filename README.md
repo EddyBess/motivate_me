@@ -4,21 +4,21 @@ PaceUp (used to be MotivateMe) is a mobile application made to keep motivation w
 
 ## Features/RoadMap
 
-- **Real-Time Tracking**
-   [X] Track your runs with precision using GPS. 
-   [X] View live stats such as pace, distance, and time during your runs.
+- **Real-Time Tracking (DONE)**
+    Track your runs with precision using GPS.   
+    View live stats such as pace, distance, and time during your runs.  
 
-- **Social Engagement**
-  [X] Notify your friends when you start a run.
-  [X] Follow your friends' progress and cheer them on in real time.
+- **Social Engagement (DONE)**
+   Notify your friends when you start a run.  
+   Follow your friends' progress and cheer them on in real time.  
 
-- **Motivating Voice Messages**
- [X] Send and receive voice messages to inspire friends during their runs.
- [X] Voice messages play automatically through headphones to keep runners motivated.
+- **Motivating Voice Messages (DONE)**
+ Send and receive voice messages to inspire friends during their runs.  
+ Voice messages play automatically through headphones to keep runners motivated.  
 
 - **Ranking System (WIP)**
-  [X] Earn points based on your pace and progress through an animal-themed ranking system.
-  [X] Compare your stats with friends and strive to be the fastest in the pack.
+  Earn points based on your pace and progress through an animal-themed ranking system.  
+  Compare your stats with friends and strive to be the fastest in the pack.  
 
 
 ## Screenshots of the current status of the app
