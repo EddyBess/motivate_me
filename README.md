@@ -21,8 +21,6 @@ PaceUp (used to be MotivateMe) is a mobile application made to keep motivation w
    - Compare your stats with friends and strive to be the fastest in the pack.  
 
 
-## Screenshots of the current status of the app
-![alt home](IMG_3876.PNG) ![alt runreview](IMG_3877.PNG) ![alt start](IMG_3878.PNG) ![alt running](IMG_3879.PNG)
 
 ## Technology Stack
 
